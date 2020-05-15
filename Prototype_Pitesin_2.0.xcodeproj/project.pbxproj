@@ -1,0 +1,445 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DAED009F2433463700DBE80A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAED009E2433463700DBE80A /* AppDelegate.swift */; };
+		DAED00A12433463700DBE80A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAED00A02433463700DBE80A /* SceneDelegate.swift */; };
+		DAED00A32433463700DBE80A /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAED00A22433463700DBE80A /* MenuViewController.swift */; };
+		DAED00A62433463700DBE80A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAED00A42433463700DBE80A /* Main.storyboard */; };
+		DAED00A82433463800DBE80A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAED00A72433463800DBE80A /* Assets.xcassets */; };
+		DAED00AB2433463800DBE80A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAED00A92433463800DBE80A /* LaunchScreen.storyboard */; };
+		DAED00B424334EFE00DBE80A /* HowtoplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAED00B324334EFE00DBE80A /* HowtoplayViewController.swift */; };
+		DAED00B624334F0D00DBE80A /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAED00B524334F0D00DBE80A /* MainViewController.swift */; };
+		DAED00B92434911800DBE80A /* GameoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAED00B82434911800DBE80A /* GameoverViewController.swift */; };
+		DAED00CF2434993300DBE80A /* phiyaaa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00BD2434993200DBE80A /* phiyaaa.mp3 */; };
+		DAED00D02434993300DBE80A /* eegh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00BE2434993200DBE80A /* eegh.mp3 */; };
+		DAED00D12434993300DBE80A /* crut2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00BF2434993200DBE80A /* crut2.mp3 */; };
+		DAED00D32434993300DBE80A /* crot2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00C12434993200DBE80A /* crot2.mp3 */; };
+		DAED00D42434993300DBE80A /* eek.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00C22434993200DBE80A /* eek.mp3 */; };
+		DAED00D52434993300DBE80A /* phoray.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00C32434993200DBE80A /* phoray.mp3 */; };
+		DAED00D62434993300DBE80A /* cret.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00C42434993200DBE80A /* cret.mp3 */; };
+		DAED00D72434993300DBE80A /* oing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00C52434993200DBE80A /* oing.mp3 */; };
+		DAED00D82434993300DBE80A /* crut.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00C62434993200DBE80A /* crut.mp3 */; };
+		DAED00D92434993300DBE80A /* crot.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00C72434993200DBE80A /* crot.mp3 */; };
+		DAED00DA2434993300DBE80A /* pyahoo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00C82434993200DBE80A /* pyahoo.mp3 */; };
+		DAED00DB2434993300DBE80A /* eegh2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00C92434993200DBE80A /* eegh2.mp3 */; };
+		DAED00DC2434993300DBE80A /* eegh3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00CA2434993200DBE80A /* eegh3.mp3 */; };
+		DAED00DD2434993300DBE80A /* eek2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00CB2434993200DBE80A /* eek2.mp3 */; };
+		DAED00DF2434993300DBE80A /* pwiewie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00CD2434993200DBE80A /* pwiewie.mp3 */; };
+		DAED00E62434B23200DBE80A /* mainthame.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00E52434B23200DBE80A /* mainthame.mp3 */; };
+		DAED00E82434B57E00DBE80A /* Gameover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DAED00E72434B57E00DBE80A /* Gameover.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		DAED009B2433463700DBE80A /* Prototype_Pitesin_2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prototype_Pitesin_2.0.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DAED009E2433463700DBE80A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DAED00A02433463700DBE80A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		DAED00A22433463700DBE80A /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		DAED00A52433463700DBE80A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DAED00A72433463800DBE80A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DAED00AA2433463800DBE80A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DAED00AC2433463800DBE80A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAED00B324334EFE00DBE80A /* HowtoplayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowtoplayViewController.swift; sourceTree = "<group>"; };
+		DAED00B524334F0D00DBE80A /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		DAED00B82434911800DBE80A /* GameoverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameoverViewController.swift; sourceTree = "<group>"; };
+		DAED00BD2434993200DBE80A /* phiyaaa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = phiyaaa.mp3; path = ../../../../../Sound_Asset/phiyaaa.mp3; sourceTree = "<group>"; };
+		DAED00BE2434993200DBE80A /* eegh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = eegh.mp3; path = ../../../../../Sound_Asset/eegh.mp3; sourceTree = "<group>"; };
+		DAED00BF2434993200DBE80A /* crut2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = crut2.mp3; path = ../../../../../Sound_Asset/crut2.mp3; sourceTree = "<group>"; };
+		DAED00C12434993200DBE80A /* crot2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = crot2.mp3; path = ../../../../../Sound_Asset/crot2.mp3; sourceTree = "<group>"; };
+		DAED00C22434993200DBE80A /* eek.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = eek.mp3; path = ../../../../../Sound_Asset/eek.mp3; sourceTree = "<group>"; };
+		DAED00C32434993200DBE80A /* phoray.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = phoray.mp3; path = ../../../../../Sound_Asset/phoray.mp3; sourceTree = "<group>"; };
+		DAED00C42434993200DBE80A /* cret.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = cret.mp3; path = ../../../../../Sound_Asset/cret.mp3; sourceTree = "<group>"; };
+		DAED00C52434993200DBE80A /* oing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = oing.mp3; path = ../../../../../Sound_Asset/oing.mp3; sourceTree = "<group>"; };
+		DAED00C62434993200DBE80A /* crut.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = crut.mp3; path = ../../../../../Sound_Asset/crut.mp3; sourceTree = "<group>"; };
+		DAED00C72434993200DBE80A /* crot.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = crot.mp3; path = ../../../../../Sound_Asset/crot.mp3; sourceTree = "<group>"; };
+		DAED00C82434993200DBE80A /* pyahoo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pyahoo.mp3; path = ../../../../../Sound_Asset/pyahoo.mp3; sourceTree = "<group>"; };
+		DAED00C92434993200DBE80A /* eegh2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = eegh2.mp3; path = ../../../../../Sound_Asset/eegh2.mp3; sourceTree = "<group>"; };
+		DAED00CA2434993200DBE80A /* eegh3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = eegh3.mp3; path = ../../../../../Sound_Asset/eegh3.mp3; sourceTree = "<group>"; };
+		DAED00CB2434993200DBE80A /* eek2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = eek2.mp3; path = ../../../../../Sound_Asset/eek2.mp3; sourceTree = "<group>"; };
+		DAED00CD2434993200DBE80A /* pwiewie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pwiewie.mp3; path = ../../../../../Sound_Asset/pwiewie.mp3; sourceTree = "<group>"; };
+		DAED00E52434B23200DBE80A /* mainthame.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = mainthame.mp3; path = ../../../../../Sound_Asset/mainthame.mp3; sourceTree = "<group>"; };
+		DAED00E72434B57E00DBE80A /* Gameover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gameover.mp3; path = ../../../../../../Downloads/Gameover.mp3; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DAED00982433463700DBE80A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DAED00922433463700DBE80A = {
+			isa = PBXGroup;
+			children = (
+				DAED009D2433463700DBE80A /* Prototype_Pitesin_2.0 */,
+				DAED009C2433463700DBE80A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DAED009C2433463700DBE80A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DAED009B2433463700DBE80A /* Prototype_Pitesin_2.0.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DAED009D2433463700DBE80A /* Prototype_Pitesin_2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				DAED00E024349B7100DBE80A /* Storyboard */,
+				DAED00BB2434991400DBE80A /* Sound_Assets */,
+				DAED00B724334F1D00DBE80A /* ViewController */,
+				DAED009E2433463700DBE80A /* AppDelegate.swift */,
+				DAED00A02433463700DBE80A /* SceneDelegate.swift */,
+				DAED00A72433463800DBE80A /* Assets.xcassets */,
+				DAED00AC2433463800DBE80A /* Info.plist */,
+			);
+			path = Prototype_Pitesin_2.0;
+			sourceTree = "<group>";
+		};
+		DAED00B724334F1D00DBE80A /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				DAED00A22433463700DBE80A /* MenuViewController.swift */,
+				DAED00B324334EFE00DBE80A /* HowtoplayViewController.swift */,
+				DAED00B524334F0D00DBE80A /* MainViewController.swift */,
+				DAED00B82434911800DBE80A /* GameoverViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		DAED00BB2434991400DBE80A /* Sound_Assets */ = {
+			isa = PBXGroup;
+			children = (
+				DAED00C42434993200DBE80A /* cret.mp3 */,
+				DAED00C72434993200DBE80A /* crot.mp3 */,
+				DAED00C12434993200DBE80A /* crot2.mp3 */,
+				DAED00C62434993200DBE80A /* crut.mp3 */,
+				DAED00BF2434993200DBE80A /* crut2.mp3 */,
+				DAED00BE2434993200DBE80A /* eegh.mp3 */,
+				DAED00C92434993200DBE80A /* eegh2.mp3 */,
+				DAED00CA2434993200DBE80A /* eegh3.mp3 */,
+				DAED00C22434993200DBE80A /* eek.mp3 */,
+				DAED00E72434B57E00DBE80A /* Gameover.mp3 */,
+				DAED00CB2434993200DBE80A /* eek2.mp3 */,
+				DAED00E52434B23200DBE80A /* mainthame.mp3 */,
+				DAED00C52434993200DBE80A /* oing.mp3 */,
+				DAED00BD2434993200DBE80A /* phiyaaa.mp3 */,
+				DAED00C32434993200DBE80A /* phoray.mp3 */,
+				DAED00CD2434993200DBE80A /* pwiewie.mp3 */,
+				DAED00C82434993200DBE80A /* pyahoo.mp3 */,
+			);
+			path = Sound_Assets;
+			sourceTree = "<group>";
+		};
+		DAED00E024349B7100DBE80A /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				DAED00A42433463700DBE80A /* Main.storyboard */,
+				DAED00A92433463800DBE80A /* LaunchScreen.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DAED009A2433463700DBE80A /* Prototype_Pitesin_2.0 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DAED00AF2433463800DBE80A /* Build configuration list for PBXNativeTarget "Prototype_Pitesin_2.0" */;
+			buildPhases = (
+				DAED00972433463700DBE80A /* Sources */,
+				DAED00982433463700DBE80A /* Frameworks */,
+				DAED00992433463700DBE80A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Prototype_Pitesin_2.0;
+			productName = Prototype_Pitesin_2.0;
+			productReference = DAED009B2433463700DBE80A /* Prototype_Pitesin_2.0.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DAED00932433463700DBE80A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1140;
+				LastUpgradeCheck = 1140;
+				ORGANIZATIONNAME = "Muhammad Ilham Ashiddiq Tresnawan";
+				TargetAttributes = {
+					DAED009A2433463700DBE80A = {
+						CreatedOnToolsVersion = 11.4;
+					};
+				};
+			};
+			buildConfigurationList = DAED00962433463700DBE80A /* Build configuration list for PBXProject "Prototype_Pitesin_2.0" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DAED00922433463700DBE80A;
+			productRefGroup = DAED009C2433463700DBE80A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DAED009A2433463700DBE80A /* Prototype_Pitesin_2.0 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DAED00992433463700DBE80A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DAED00DF2434993300DBE80A /* pwiewie.mp3 in Resources */,
+				DAED00E62434B23200DBE80A /* mainthame.mp3 in Resources */,
+				DAED00D32434993300DBE80A /* crot2.mp3 in Resources */,
+				DAED00CF2434993300DBE80A /* phiyaaa.mp3 in Resources */,
+				DAED00D52434993300DBE80A /* phoray.mp3 in Resources */,
+				DAED00AB2433463800DBE80A /* LaunchScreen.storyboard in Resources */,
+				DAED00A82433463800DBE80A /* Assets.xcassets in Resources */,
+				DAED00DC2434993300DBE80A /* eegh3.mp3 in Resources */,
+				DAED00A62433463700DBE80A /* Main.storyboard in Resources */,
+				DAED00D82434993300DBE80A /* crut.mp3 in Resources */,
+				DAED00DA2434993300DBE80A /* pyahoo.mp3 in Resources */,
+				DAED00D72434993300DBE80A /* oing.mp3 in Resources */,
+				DAED00D02434993300DBE80A /* eegh.mp3 in Resources */,
+				DAED00D62434993300DBE80A /* cret.mp3 in Resources */,
+				DAED00D92434993300DBE80A /* crot.mp3 in Resources */,
+				DAED00D42434993300DBE80A /* eek.mp3 in Resources */,
+				DAED00E82434B57E00DBE80A /* Gameover.mp3 in Resources */,
+				DAED00DB2434993300DBE80A /* eegh2.mp3 in Resources */,
+				DAED00DD2434993300DBE80A /* eek2.mp3 in Resources */,
+				DAED00D12434993300DBE80A /* crut2.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DAED00972433463700DBE80A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DAED00A32433463700DBE80A /* MenuViewController.swift in Sources */,
+				DAED009F2433463700DBE80A /* AppDelegate.swift in Sources */,
+				DAED00B92434911800DBE80A /* GameoverViewController.swift in Sources */,
+				DAED00B424334EFE00DBE80A /* HowtoplayViewController.swift in Sources */,
+				DAED00A12433463700DBE80A /* SceneDelegate.swift in Sources */,
+				DAED00B624334F0D00DBE80A /* MainViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		DAED00A42433463700DBE80A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DAED00A52433463700DBE80A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DAED00A92433463800DBE80A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DAED00AA2433463800DBE80A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DAED00AD2433463800DBE80A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DAED00AE2433463800DBE80A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DAED00B02433463800DBE80A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Prototype_Pitesin_2.0/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "Rexy.Prototype-Pitesin-2-0";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DAED00B12433463800DBE80A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Prototype_Pitesin_2.0/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "Rexy.Prototype-Pitesin-2-0";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DAED00962433463700DBE80A /* Build configuration list for PBXProject "Prototype_Pitesin_2.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DAED00AD2433463800DBE80A /* Debug */,
+				DAED00AE2433463800DBE80A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DAED00AF2433463800DBE80A /* Build configuration list for PBXNativeTarget "Prototype_Pitesin_2.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DAED00B02433463800DBE80A /* Debug */,
+				DAED00B12433463800DBE80A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DAED00932433463700DBE80A /* Project object */;
+}

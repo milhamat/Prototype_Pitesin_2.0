@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="414px" height="896px" viewBox="0 0 414 896" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>LaunchScreen-AppGame</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#ABF5F5" offset="0%"></stop>
+            <stop stop-color="#2ADFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.5942854%" y1="28.711757%" x2="50%" y2="76.5227706%" id="linearGradient-2">
+            <stop stop-color="#30BEBE" offset="0%"></stop>
+            <stop stop-color="#87EEF7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.2585526%" y1="71.5746049%" x2="49.2585526%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#77A104" offset="0%"></stop>
+            <stop stop-color="#C7E808" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#E3F313" offset="0%"></stop>
+            <stop stop-color="#C3E408" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="89.6040472%" y1="76.5490518%" x2="21.634366%" y2="7.51513852%" id="linearGradient-5">
+            <stop stop-color="#FFFC3C" offset="0%"></stop>
+            <stop stop-color="#FFE57A" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-17.6%" y="-63.9%" width="128.1%" height="227.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <text id="text-7" font-family="ComicSansMS-Bold, Comic Sans MS" font-size="40" font-weight="bold" letter-spacing="2.85714286" fill="#FFFFFF">
+            <tspan x="75" y="46">Pitesin</tspan>
+        </text>
+        <filter x="-12.3%" y="-26.8%" width="124.7%" height="164.3%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-59.8%" y="-59.8%" width="219.7%" height="219.7%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="LaunchScreen-AppGame" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="BG" fill="url(#linearGradient-1)" x="-1" y="0" width="416" height="896"></rect>
+        <g id="Ground" transform="translate(-139.000000, 487.649489)">
+            <g id="Mountain" transform="translate(17.000000, 0.000000)" fill="url(#linearGradient-2)">
+                <path d="M79.1282112,206.018921 C86.2886627,171.883607 88.5160961,138.139115 96.195411,103.646401 C102.010997,77.5248854 104.520496,57.6074988 139.064862,63.3405803 C142.641583,63.9341833 145.715589,65.9874201 148.8501,67.6226539 C154.802594,70.7279928 160.760407,73.8724897 166.287177,77.5421094 C178.373036,85.566778 182.300254,90.550569 190.956679,101.709829 C195.566636,107.652665 199.128652,119.053876 201.570839,123.940976 C207.262936,135.331527 212.732311,146.85378 219.57264,157.738979 C221.85611,161.372727 225.891588,163.907181 228.756828,167.202771 C256.077542,198.626976 245.838153,181.334247 317.514193,219.785232 C332.588508,227.871927 350.577405,251.66022 344.941262,268.684409 C337.882875,290.004544 287.680522,298.854617 268.971087,302.426915 C222.190321,311.359031 160.979451,311.696495 112.324707,313.059076 C83.7457711,313.859432 39.3698065,318.392422 11.3911107,303.799749 C-2.53008793,296.538956 -0.805920466,277.810212 1.73466865,266.549214 C7.66664756,240.256099 34.885041,212.093162 62.5332655,201.804028 L79.1282112,206.018921 Z" id="Mountain-1"></path>
+                <path d="M393.456342,161.66841 C400.616793,127.533097 402.844227,93.7886046 410.523542,59.2958902 C416.339128,33.1743747 418.848627,13.2569881 453.392992,18.9900696 C456.969714,19.5836726 460.04372,21.6369094 463.178231,23.2721432 C469.130725,26.3774821 475.088537,29.5219789 480.615308,33.1915987 C492.701167,41.2162673 496.628385,46.2000583 505.28481,57.3593181 C509.894767,63.3021541 513.456783,74.7033649 515.89897,79.5904653 C521.591067,90.9810158 527.060442,102.503269 533.900771,113.388469 C536.184241,117.022216 540.219719,119.55667 543.084958,122.85226 C570.405673,154.276466 560.166284,136.983737 631.842323,175.434721 C646.916639,183.521417 664.905535,207.30971 659.269393,224.333898 C652.211005,245.654033 602.008653,254.504106 583.299218,258.076404 C536.518452,267.00852 475.307582,267.345984 426.652838,268.708565 C398.073902,269.508921 353.697937,274.041912 325.719241,259.449238 C311.798043,252.188446 313.52221,233.459701 316.062799,222.198703 C321.994778,195.905588 349.213172,167.742651 376.861396,157.453518 L393.456342,161.66841 Z" id="Mountain-2" transform="translate(487.328131, 144.000000) rotate(6.000000) translate(-487.328131, -144.000000) "></path>
+            </g>
+            <ellipse id="Hill" fill="url(#linearGradient-3)" cx="354" cy="409.850511" rx="354" ry="221.5"></ellipse>
+            <ellipse id="Oval" fill="#FFDC26" cx="440.5" cy="255.850511" rx="3.5" ry="2.5"></ellipse>
+            <g id="Grass" transform="translate(135.000000, 174.812701)" fill="url(#linearGradient-4)">
+                <polygon id="Triangle" transform="translate(5.000000, 51.537810) rotate(-16.000000) translate(-5.000000, -51.537810) " points="5 45.5378099 8 57.5378099 2 57.5378099"></polygon>
+                <polygon id="Triangle" transform="translate(8.000000, 52.537810) rotate(-16.000000) translate(-8.000000, -52.537810) " points="8 46.5378099 11 58.5378099 5 58.5378099"></polygon>
+                <polygon id="Triangle" transform="translate(9.000000, 48.537810) rotate(-16.000000) translate(-9.000000, -48.537810) " points="9 42.5378099 12 54.5378099 6 54.5378099"></polygon>
+                <polygon id="Triangle" transform="translate(12.000000, 51.537810) rotate(-16.000000) translate(-12.000000, -51.537810) " points="12 45.5378099 15 57.5378099 9 57.5378099"></polygon>
+                <polygon id="Triangle" transform="translate(14.000000, 51.537810) rotate(-16.000000) translate(-14.000000, -51.537810) " points="14 45.5378099 17 57.5378099 11 57.5378099"></polygon>
+                <polygon id="Triangle" transform="translate(15.537609, 49.132292) rotate(-16.000000) translate(-15.537609, -49.132292) " points="15.5376092 43.1322922 18.5376092 55.1322922 12.5376092 55.1322922"></polygon>
+                <polygon id="Triangle" transform="translate(18.537609, 50.132292) rotate(-16.000000) translate(-18.537609, -50.132292) " points="18.5376092 44.1322922 21.5376092 56.1322922 15.5376092 56.1322922"></polygon>
+                <polygon id="Triangle" transform="translate(19.537609, 46.132292) rotate(-16.000000) translate(-19.537609, -46.132292) " points="19.5376092 40.1322922 22.5376092 52.1322922 16.5376092 52.1322922"></polygon>
+                <polygon id="Triangle" transform="translate(22.537609, 49.132292) rotate(-16.000000) translate(-22.537609, -49.132292) " points="22.5376092 43.1322922 25.5376092 55.1322922 19.5376092 55.1322922"></polygon>
+                <polygon id="Triangle" transform="translate(24.537609, 49.132292) rotate(-16.000000) translate(-24.537609, -49.132292) " points="24.5376092 43.1322922 27.5376092 55.1322922 21.5376092 55.1322922"></polygon>
+                <polygon id="Triangle" transform="translate(24.491632, 45.805759) rotate(-25.000000) translate(-24.491632, -45.805759) " points="24.4916317 39.8057586 27.4916317 51.8057586 21.4916317 51.8057586"></polygon>
+                <polygon id="Triangle" transform="translate(27.611131, 46.324144) rotate(-25.000000) translate(-27.611131, -46.324144) " points="27.6111312 40.3241435 30.6111312 52.3241435 24.6111312 52.3241435"></polygon>
+                <polygon id="Triangle" transform="translate(27.973082, 42.216956) rotate(-25.000000) translate(-27.973082, -42.216956) " points="27.9730816 36.2169557 30.9730816 48.2169557 24.9730816 48.2169557"></polygon>
+                <polygon id="Triangle" transform="translate(31.405450, 44.710717) rotate(-25.000000) translate(-31.405450, -44.710717) " points="31.40545 38.7107173 34.40545 50.7107173 28.40545 50.7107173"></polygon>
+                <polygon id="Triangle" transform="translate(33.380827, 44.397848) rotate(-25.000000) translate(-33.380827, -44.397848) " points="33.3808267 38.3978484 36.3808267 50.3978484 30.3808267 50.3978484"></polygon>
+                <polygon id="Triangle" transform="translate(34.523200, 41.781411) rotate(-25.000000) translate(-34.523200, -41.781411) " points="34.5231995 35.7814115 37.5231995 47.7814115 31.5231995 47.7814115"></polygon>
+                <polygon id="Triangle" transform="translate(37.642699, 42.299796) rotate(-25.000000) translate(-37.642699, -42.299796) " points="37.642699 36.2997964 40.642699 48.2997964 34.642699 48.2997964"></polygon>
+                <polygon id="Triangle" transform="translate(38.004650, 38.192609) rotate(-25.000000) translate(-38.004650, -38.192609) " points="38.0046495 32.1926086 41.0046495 44.1926086 35.0046495 44.1926086"></polygon>
+                <polygon id="Triangle" transform="translate(41.437018, 40.686370) rotate(-25.000000) translate(-41.437018, -40.686370) " points="41.4370179 34.6863702 44.4370179 46.6863702 38.4370179 46.6863702"></polygon>
+                <polygon id="Triangle" transform="translate(43.412395, 40.373501) rotate(-25.000000) translate(-43.412395, -40.373501) " points="43.4123946 34.3735013 46.4123946 46.3735013 40.4123946 46.3735013"></polygon>
+                <polygon id="Triangle" transform="translate(45.537609, 37.588713) rotate(-16.000000) translate(-45.537609, -37.588713) " points="45.5376092 31.5887127 48.5376092 43.5887127 42.5376092 43.5887127"></polygon>
+                <polygon id="Triangle" transform="translate(48.537609, 38.588713) rotate(-16.000000) translate(-48.537609, -38.588713) " points="48.5376092 32.5887127 51.5376092 44.5887127 45.5376092 44.5887127"></polygon>
+                <polygon id="Triangle" transform="translate(49.537609, 34.588713) rotate(-16.000000) translate(-49.537609, -34.588713) " points="49.5376092 28.5887127 52.5376092 40.5887127 46.5376092 40.5887127"></polygon>
+                <polygon id="Triangle" transform="translate(52.537609, 37.588713) rotate(-16.000000) translate(-52.537609, -37.588713) " points="52.5376092 31.5887127 55.5376092 43.5887127 49.5376092 43.5887127"></polygon>
+                <polygon id="Triangle" transform="translate(54.537609, 37.588713) rotate(-16.000000) translate(-54.537609, -37.588713) " points="54.5376092 31.5887127 57.5376092 43.5887127 51.5376092 43.5887127"></polygon>
+                <polygon id="Triangle" transform="translate(56.075218, 35.183195) rotate(-16.000000) translate(-56.075218, -35.183195) " points="56.0752184 29.183195 59.0752184 41.183195 53.0752184 41.183195"></polygon>
+                <polygon id="Triangle" transform="translate(59.075218, 37.183195) rotate(-16.000000) translate(-59.075218, -37.183195) " points="59.0752184 31.183195 62.0752184 43.183195 56.0752184 43.183195"></polygon>
+                <polygon id="Triangle" transform="translate(60.075218, 33.183195) rotate(-16.000000) translate(-60.075218, -33.183195) " points="60.0752184 27.183195 63.0752184 39.183195 57.0752184 39.183195"></polygon>
+                <polygon id="Triangle" transform="translate(63.075218, 36.183195) rotate(-16.000000) translate(-63.075218, -36.183195) " points="63.0752184 30.183195 66.0752184 42.183195 60.0752184 42.183195"></polygon>
+                <polygon id="Triangle" transform="translate(65.075218, 36.183195) rotate(-16.000000) translate(-65.075218, -36.183195) " points="65.0752184 30.183195 68.0752184 42.183195 62.0752184 42.183195"></polygon>
+                <polygon id="Triangle" transform="translate(65.029241, 32.856661) rotate(-25.000000) translate(-65.029241, -32.856661) " points="65.0292409 26.8566614 68.0292409 38.8566614 62.0292409 38.8566614"></polygon>
+                <polygon id="Triangle" transform="translate(68.148740, 33.375046) rotate(-25.000000) translate(-68.148740, -33.375046) " points="68.1487404 27.3750464 71.1487404 39.3750464 65.1487404 39.3750464"></polygon>
+                <polygon id="Triangle" transform="translate(68.510691, 29.267859) rotate(-25.000000) translate(-68.510691, -29.267859) " points="68.5106909 23.2678585 71.5106909 35.2678585 65.5106909 35.2678585"></polygon>
+                <polygon id="Triangle" transform="translate(71.943059, 31.761620) rotate(-25.000000) translate(-71.943059, -31.761620) " points="71.9430593 25.7616202 74.9430593 37.7616202 68.9430593 37.7616202"></polygon>
+                <polygon id="Triangle" transform="translate(73.918436, 31.448751) rotate(-25.000000) translate(-73.918436, -31.448751) " points="73.918436 25.4487512 76.918436 37.4487512 70.918436 37.4487512"></polygon>
+                <polygon id="Triangle" transform="translate(75.060809, 28.832314) rotate(-25.000000) translate(-75.060809, -28.832314) " points="75.0608088 22.8323143 78.0608088 34.8323143 72.0608088 34.8323143"></polygon>
+                <polygon id="Triangle" transform="translate(78.180308, 29.350699) rotate(-25.000000) translate(-78.180308, -29.350699) " points="78.1803083 23.3506992 81.1803083 35.3506992 75.1803083 35.3506992"></polygon>
+                <polygon id="Triangle" transform="translate(78.542259, 25.243511) rotate(-25.000000) translate(-78.542259, -25.243511) " points="78.5422587 19.2435114 81.5422587 31.2435114 75.5422587 31.2435114"></polygon>
+                <polygon id="Triangle" transform="translate(81.974627, 27.737273) rotate(-25.000000) translate(-81.974627, -27.737273) " points="81.9746272 21.737273 84.9746272 33.737273 78.9746272 33.737273"></polygon>
+                <polygon id="Triangle" transform="translate(83.950004, 27.424404) rotate(-25.000000) translate(-83.950004, -27.424404) " points="83.9500038 21.4244041 86.9500038 33.4244041 80.9500038 33.4244041"></polygon>
+                <polygon id="Triangle" transform="translate(85.891544, 24.891056) rotate(-7.000000) translate(-85.891544, -24.891056) " points="85.8915444 18.8910563 88.8915444 30.8910563 82.8915444 30.8910563"></polygon>
+                <polygon id="Triangle" transform="translate(88.698175, 26.348048) rotate(-7.000000) translate(-88.698175, -26.348048) " points="88.6981749 20.3480481 91.6981749 32.3480481 85.6981749 32.3480481"></polygon>
+                <polygon id="Triangle" transform="translate(90.311601, 22.553729) rotate(-7.000000) translate(-90.311601, -22.553729) " points="90.3116011 16.5537292 93.3116011 28.5537292 87.3116011 28.5537292"></polygon>
+                <polygon id="Triangle" transform="translate(92.805363, 25.986098) rotate(-7.000000) translate(-92.805363, -25.986098) " points="92.8053628 19.9860976 95.8053628 31.9860976 89.8053628 31.9860976"></polygon>
+                <polygon id="Triangle" transform="translate(94.780739, 26.298967) rotate(-7.000000) translate(-94.780739, -26.298967) " points="94.7807394 20.2989665 97.7807394 32.2989665 91.7807394 32.2989665"></polygon>
+                <polygon id="Triangle" transform="translate(96.675724, 24.163600) rotate(-7.000000) translate(-96.675724, -24.163600) " points="96.675724 18.1635997 99.675724 30.1635997 93.675724 30.1635997"></polygon>
+                <polygon id="Triangle" transform="translate(99.482355, 25.620591) rotate(-7.000000) translate(-99.482355, -25.620591) " points="99.4823546 19.6205915 102.482355 31.6205915 96.4823546 31.6205915"></polygon>
+                <polygon id="Triangle" transform="translate(101.095781, 21.826273) rotate(-7.000000) translate(-101.095781, -21.826273) " points="101.095781 15.8262726 104.095781 27.8262726 98.0957808 27.8262726"></polygon>
+                <polygon id="Triangle" transform="translate(103.589542, 25.258641) rotate(-7.000000) translate(-103.589542, -25.258641) " points="103.589542 19.258641 106.589542 31.258641 100.589542 31.258641"></polygon>
+                <polygon id="Triangle" transform="translate(105.564919, 25.571510) rotate(-7.000000) translate(-105.564919, -25.571510) " points="105.564919 19.5715099 108.564919 31.5715099 102.564919 31.5715099"></polygon>
+                <polygon id="Triangle" transform="translate(106.039892, 22.278739) rotate(-16.000000) translate(-106.039892, -22.278739) " points="106.039892 16.278739 109.039892 28.278739 103.039892 28.278739"></polygon>
+                <polygon id="Triangle" transform="translate(109.039892, 23.278739) rotate(-16.000000) translate(-109.039892, -23.278739) " points="109.039892 17.278739 112.039892 29.278739 106.039892 29.278739"></polygon>
+                <polygon id="Triangle" transform="translate(110.039892, 19.278739) rotate(-16.000000) translate(-110.039892, -19.278739) " points="110.039892 13.278739 113.039892 25.278739 107.039892 25.278739"></polygon>
+                <polygon id="Triangle" transform="translate(113.039892, 22.278739) rotate(-16.000000) translate(-113.039892, -22.278739) " points="113.039892 16.278739 116.039892 28.278739 110.039892 28.278739"></polygon>
+                <polygon id="Triangle" transform="translate(115.039892, 22.278739) rotate(-16.000000) translate(-115.039892, -22.278739) " points="115.039892 16.278739 118.039892 28.278739 112.039892 28.278739"></polygon>
+                <polygon id="Triangle" transform="translate(116.577501, 19.873221) rotate(-16.000000) translate(-116.577501, -19.873221) " points="116.577501 13.8732213 119.577501 25.8732213 113.577501 25.8732213"></polygon>
+                <polygon id="Triangle" transform="translate(119.577501, 20.873221) rotate(-16.000000) translate(-119.577501, -20.873221) " points="119.577501 14.8732213 122.577501 26.8732213 116.577501 26.8732213"></polygon>
+                <polygon id="Triangle" transform="translate(120.577501, 16.873221) rotate(-16.000000) translate(-120.577501, -16.873221) " points="120.577501 10.8732213 123.577501 22.8732213 117.577501 22.8732213"></polygon>
+                <polygon id="Triangle" transform="translate(123.577501, 19.873221) rotate(-16.000000) translate(-123.577501, -19.873221) " points="123.577501 13.8732213 126.577501 25.8732213 120.577501 25.8732213"></polygon>
+                <polygon id="Triangle" transform="translate(125.577501, 19.873221) rotate(-16.000000) translate(-125.577501, -19.873221) " points="125.577501 13.8732213 128.577501 25.8732213 122.577501 25.8732213"></polygon>
+                <polygon id="Triangle" transform="translate(128.112188, 17.455175) rotate(-7.000000) translate(-128.112188, -17.455175) " points="128.112188 11.4551749 131.112188 23.4551749 125.112188 23.4551749"></polygon>
+                <polygon id="Triangle" transform="translate(130.918818, 18.912167) rotate(-7.000000) translate(-130.918818, -18.912167) " points="130.918818 12.9121666 133.918818 24.9121666 127.918818 24.9121666"></polygon>
+                <polygon id="Triangle" transform="translate(132.532245, 15.117848) rotate(-7.000000) translate(-132.532245, -15.117848) " points="132.532245 9.11784772 135.532245 21.1178477 129.532245 21.1178477"></polygon>
+                <polygon id="Triangle" transform="translate(135.026006, 18.550216) rotate(-7.000000) translate(-135.026006, -18.550216) " points="135.026006 12.5502161 138.026006 24.5502161 132.026006 24.5502161"></polygon>
+                <polygon id="Triangle" transform="translate(137.001383, 18.863085) rotate(-7.000000) translate(-137.001383, -18.863085) " points="137.001383 12.8630851 140.001383 24.8630851 134.001383 24.8630851"></polygon>
+                <polygon id="Triangle" transform="translate(138.896368, 16.727718) rotate(-7.000000) translate(-138.896368, -16.727718) " points="138.896368 10.7277183 141.896368 22.7277183 135.896368 22.7277183"></polygon>
+                <polygon id="Triangle" transform="translate(141.702998, 18.184710) rotate(-7.000000) translate(-141.702998, -18.184710) " points="141.702998 12.18471 144.702998 24.18471 138.702998 24.18471"></polygon>
+                <polygon id="Triangle" transform="translate(143.316424, 14.390391) rotate(-7.000000) translate(-143.316424, -14.390391) " points="143.316424 8.39039114 146.316424 20.3903911 140.316424 20.3903911"></polygon>
+                <polygon id="Triangle" transform="translate(145.810186, 17.822760) rotate(-7.000000) translate(-145.810186, -17.822760) " points="145.810186 11.8227596 148.810186 23.8227596 142.810186 23.8227596"></polygon>
+                <polygon id="Triangle" transform="translate(147.785563, 18.135628) rotate(-7.000000) translate(-147.785563, -18.135628) " points="147.785563 12.1356285 150.785563 24.1356285 144.785563 24.1356285"></polygon>
+                <polygon id="Triangle" transform="translate(148.260536, 14.842858) rotate(-16.000000) translate(-148.260536, -14.842858) " points="148.260536 8.8428576 151.260536 20.8428576 145.260536 20.8428576"></polygon>
+                <polygon id="Triangle" transform="translate(151.260536, 15.842858) rotate(-16.000000) translate(-151.260536, -15.842858) " points="151.260536 9.8428576 154.260536 21.8428576 148.260536 21.8428576"></polygon>
+                <polygon id="Triangle" transform="translate(152.260536, 11.842858) rotate(-16.000000) translate(-152.260536, -11.842858) " points="152.260536 5.8428576 155.260536 17.8428576 149.260536 17.8428576"></polygon>
+                <polygon id="Triangle" transform="translate(155.260536, 14.842858) rotate(-16.000000) translate(-155.260536, -14.842858) " points="155.260536 8.8428576 158.260536 20.8428576 152.260536 20.8428576"></polygon>
+                <polygon id="Triangle" transform="translate(157.260536, 14.842858) rotate(-16.000000) translate(-157.260536, -14.842858) " points="157.260536 8.8428576 160.260536 20.8428576 154.260536 20.8428576"></polygon>
+                <polygon id="Triangle" transform="translate(158.798145, 12.437340) rotate(-16.000000) translate(-158.798145, -12.437340) " points="158.798145 6.43733984 161.798145 18.4373398 155.798145 18.4373398"></polygon>
+                <polygon id="Triangle" transform="translate(161.798145, 13.437340) rotate(-16.000000) translate(-161.798145, -13.437340) " points="161.798145 7.43733984 164.798145 19.4373398 158.798145 19.4373398"></polygon>
+                <polygon id="Triangle" transform="translate(162.798145, 9.437340) rotate(-16.000000) translate(-162.798145, -9.437340) " points="162.798145 3.43733984 165.798145 15.4373398 159.798145 15.4373398"></polygon>
+                <polygon id="Triangle" transform="translate(165.798145, 12.437340) rotate(-16.000000) translate(-165.798145, -12.437340) " points="165.798145 6.43733984 168.798145 18.4373398 162.798145 18.4373398"></polygon>
+                <polygon id="Triangle" transform="translate(167.798145, 12.437340) rotate(-16.000000) translate(-167.798145, -12.437340) " points="167.798145 6.43733984 170.798145 18.4373398 164.798145 18.4373398"></polygon>
+                <polygon id="Triangle" transform="translate(260.365630, 9.872743) rotate(12.000000) translate(-260.365630, -9.872743) " points="260.36563 3.87274287 263.36563 15.8727429 257.36563 15.8727429"></polygon>
+                <polygon id="Triangle" transform="translate(262.545001, 12.164105) rotate(12.000000) translate(-262.545001, -12.164105) " points="262.545001 6.16410515 265.545001 18.1641051 259.545001 18.1641051"></polygon>
+                <polygon id="Triangle" transform="translate(265.305835, 9.101786) rotate(12.000000) translate(-265.305835, -9.101786) " points="265.305835 3.10178634 268.305835 15.1017863 262.305835 15.1017863"></polygon>
+                <polygon id="Triangle" transform="translate(266.546263, 13.159044) rotate(12.000000) translate(-266.546263, -13.159044) " points="266.546263 7.15904381 269.546263 19.1590438 263.546263 19.1590438"></polygon>
+                <polygon id="Triangle" transform="translate(268.312159, 14.097987) rotate(12.000000) translate(-268.312159, -14.097987) " points="268.312159 8.09798693 271.312159 20.0979869 265.312159 20.0979869"></polygon>
+                <polygon id="Triangle" transform="translate(270.799109, 12.695905) rotate(12.000000) translate(-270.799109, -12.695905) " points="270.799109 6.69590462 273.799109 18.6959046 267.799109 18.6959046"></polygon>
+                <polygon id="Triangle" transform="translate(272.978480, 14.987267) rotate(12.000000) translate(-272.978480, -14.987267) " points="272.97848 8.98726691 275.97848 20.9872669 269.97848 20.9872669"></polygon>
+                <polygon id="Triangle" transform="translate(275.739314, 11.924948) rotate(12.000000) translate(-275.739314, -11.924948) " points="275.739314 5.9249481 278.739314 17.9249481 272.739314 17.9249481"></polygon>
+                <polygon id="Triangle" transform="translate(276.979742, 15.982206) rotate(12.000000) translate(-276.979742, -15.982206) " points="276.979742 9.98220556 279.979742 21.9822056 273.979742 21.9822056"></polygon>
+                <polygon id="Triangle" transform="translate(278.745637, 16.921149) rotate(12.000000) translate(-278.745637, -16.921149) " points="278.745637 10.9211487 281.745637 22.9211487 275.745637 22.9211487"></polygon>
+                <polygon id="Triangle" transform="translate(280.266755, 13.962409) rotate(3.000000) translate(-280.266755, -13.962409) " points="280.266755 7.96240874 283.266755 19.9624087 277.266755 19.9624087"></polygon>
+                <polygon id="Triangle" transform="translate(282.777742, 15.884632) rotate(3.000000) translate(-282.777742, -15.884632) " points="282.777742 9.88463178 285.777742 21.8846318 279.777742 21.8846318"></polygon>
+                <polygon id="Triangle" transform="translate(285.025533, 12.428126) rotate(3.000000) translate(-285.025533, -12.428126) " points="285.025533 6.42812563 288.025533 18.4281256 282.025533 18.4281256"></polygon>
+                <polygon id="Triangle" transform="translate(286.885385, 16.241386) rotate(3.000000) translate(-286.885385, -16.241386) " points="286.885385 10.2413858 289.885385 22.2413858 283.885385 22.2413858"></polygon>
+                <polygon id="Triangle" transform="translate(288.776422, 16.892522) rotate(3.000000) translate(-288.776422, -16.892522) " points="288.776422 10.8925221 291.776422 22.8925221 285.776422 22.8925221"></polygon>
+                <polygon id="Triangle" transform="translate(291.013420, 15.118657) rotate(3.000000) translate(-291.013420, -15.118657) " points="291.01342 9.118657 294.01342 21.118657 288.01342 21.118657"></polygon>
+                <polygon id="Triangle" transform="translate(293.524407, 17.040880) rotate(3.000000) translate(-293.524407, -17.040880) " points="293.524407 11.04088 296.524407 23.04088 290.524407 23.04088"></polygon>
+                <polygon id="Triangle" transform="translate(295.772199, 13.584374) rotate(3.000000) translate(-295.772199, -13.584374) " points="295.772199 7.58437389 298.772199 19.5843739 292.772199 19.5843739"></polygon>
+                <polygon id="Triangle" transform="translate(297.632050, 17.397634) rotate(3.000000) translate(-297.632050, -17.397634) " points="297.63205 11.3976341 300.63205 23.3976341 294.63205 23.3976341"></polygon>
+                <polygon id="Triangle" transform="translate(299.523087, 18.048770) rotate(3.000000) translate(-299.523087, -18.048770) " points="299.523087 12.0487704 302.523087 24.0487704 296.523087 24.0487704"></polygon>
+                <polygon id="Triangle" transform="translate(302.706919, 16.587676) rotate(12.000000) translate(-302.706919, -16.587676) " points="302.706919 10.5876758 305.706919 22.5876758 299.706919 22.5876758"></polygon>
+                <polygon id="Triangle" transform="translate(304.886290, 18.879038) rotate(12.000000) translate(-304.886290, -18.879038) " points="304.88629 12.8790381 307.88629 24.8790381 301.88629 24.8790381"></polygon>
+                <polygon id="Triangle" transform="translate(307.647124, 15.816719) rotate(12.000000) translate(-307.647124, -15.816719) " points="307.647124 9.8167193 310.647124 21.8167193 304.647124 21.8167193"></polygon>
+                <polygon id="Triangle" transform="translate(308.887552, 19.873977) rotate(12.000000) translate(-308.887552, -19.873977) " points="308.887552 13.8739768 311.887552 25.8739768 305.887552 25.8739768"></polygon>
+                <polygon id="Triangle" transform="translate(310.653447, 20.812920) rotate(12.000000) translate(-310.653447, -20.812920) " points="310.653447 14.8129199 313.653447 26.8129199 307.653447 26.8129199"></polygon>
+                <polygon id="Triangle" transform="translate(313.140398, 19.410838) rotate(12.000000) translate(-313.140398, -19.410838) " points="313.140398 13.4108376 316.140398 25.4108376 310.140398 25.4108376"></polygon>
+                <polygon id="Triangle" transform="translate(315.319769, 21.702200) rotate(12.000000) translate(-315.319769, -21.702200) " points="315.319769 15.7021999 318.319769 27.7021999 312.319769 27.7021999"></polygon>
+                <polygon id="Triangle" transform="translate(318.080603, 18.639881) rotate(12.000000) translate(-318.080603, -18.639881) " points="318.080603 12.6398811 321.080603 24.6398811 315.080603 24.6398811"></polygon>
+                <polygon id="Triangle" transform="translate(319.321031, 22.697139) rotate(12.000000) translate(-319.321031, -22.697139) " points="319.321031 16.6971385 322.321031 28.6971385 316.321031 28.6971385"></polygon>
+                <polygon id="Triangle" transform="translate(321.086926, 23.636082) rotate(12.000000) translate(-321.086926, -23.636082) " points="321.086926 17.6360817 324.086926 29.6360817 318.086926 29.6360817"></polygon>
+                <polygon id="Triangle" transform="translate(322.608043, 20.677342) rotate(3.000000) translate(-322.608043, -20.677342) " points="322.608043 14.6773417 325.608043 26.6773417 319.608043 26.6773417"></polygon>
+                <polygon id="Triangle" transform="translate(325.119031, 22.599565) rotate(3.000000) translate(-325.119031, -22.599565) " points="325.119031 16.5995647 328.119031 28.5995647 322.119031 28.5995647"></polygon>
+                <polygon id="Triangle" transform="translate(327.366822, 19.143059) rotate(3.000000) translate(-327.366822, -19.143059) " points="327.366822 13.1430586 330.366822 25.1430586 324.366822 25.1430586"></polygon>
+                <polygon id="Triangle" transform="translate(329.226674, 22.956319) rotate(3.000000) translate(-329.226674, -22.956319) " points="329.226674 16.9563188 332.226674 28.9563188 326.226674 28.9563188"></polygon>
+                <polygon id="Triangle" transform="translate(331.117711, 23.607455) rotate(3.000000) translate(-331.117711, -23.607455) " points="331.117711 17.6074551 334.117711 29.6074551 328.117711 29.6074551"></polygon>
+                <polygon id="Triangle" transform="translate(333.354709, 21.833590) rotate(3.000000) translate(-333.354709, -21.833590) " points="333.354709 15.83359 336.354709 27.83359 330.354709 27.83359"></polygon>
+                <polygon id="Triangle" transform="translate(335.865696, 23.755813) rotate(3.000000) translate(-335.865696, -23.755813) " points="335.865696 17.755813 338.865696 29.755813 332.865696 29.755813"></polygon>
+                <polygon id="Triangle" transform="translate(169.244690, 9.809318) rotate(-11.000000) translate(-169.244690, -9.809318) " points="169.24469 3.80931751 172.24469 15.8093175 166.24469 15.8093175"></polygon>
+                <polygon id="Triangle" transform="translate(171.971807, 13.059369) rotate(-11.000000) translate(-171.971807, -13.059369) " points="171.971807 7.05936883 174.971807 19.0593688 168.971807 19.0593688"></polygon>
+                <polygon id="Triangle" transform="translate(173.964197, 13.233680) rotate(-11.000000) translate(-173.964197, -13.233680) " points="173.964197 7.23368032 176.964197 19.2336803 170.964197 19.2336803"></polygon>
+                <polygon id="Triangle" transform="translate(176.699985, 11.045748) rotate(-2.000000) translate(-176.699985, -11.045748) " points="176.699985 5.04574779 179.699985 17.0457478 173.699985 17.0457478"></polygon>
+                <polygon id="Triangle" transform="translate(179.368950, 12.741809) rotate(-2.000000) translate(-179.368950, -12.741809) " points="179.36895 6.74180921 182.36895 18.7418092 176.36895 18.7418092"></polygon>
+                <polygon id="Triangle" transform="translate(181.306933, 9.102548) rotate(-2.000000) translate(-181.306933, -9.102548) " points="181.306933 3.1025482 184.306933 15.1025482 178.306933 15.1025482"></polygon>
+                <polygon id="Triangle" transform="translate(183.492055, 12.739201) rotate(-2.000000) translate(-183.492055, -12.739201) " points="183.492055 6.73920106 186.492055 18.7392011 180.492055 18.7392011"></polygon>
+                <polygon id="Triangle" transform="translate(185.432646, 13.223045) rotate(-2.000000) translate(-185.432646, -13.223045) " points="185.432646 7.22304485 188.432646 19.2230449 182.432646 19.2230449"></polygon>
+                <polygon id="Triangle" transform="translate(187.506529, 11.260963) rotate(-2.000000) translate(-187.506529, -11.260963) " points="187.506529 5.26096259 190.506529 17.2609626 184.506529 17.2609626"></polygon>
+                <polygon id="Triangle" transform="translate(190.175494, 12.957024) rotate(-2.000000) translate(-190.175494, -12.957024) " points="190.175494 6.95702401 193.175494 18.957024 187.175494 18.957024"></polygon>
+                <polygon id="Triangle" transform="translate(192.113478, 9.317763) rotate(-2.000000) translate(-192.113478, -9.317763) " points="192.113478 3.317763 195.113478 15.317763 189.113478 15.317763"></polygon>
+                <polygon id="Triangle" transform="translate(194.298599, 12.954416) rotate(-2.000000) translate(-194.298599, -12.954416) " points="194.298599 6.95441586 197.298599 18.9544159 191.298599 18.9544159"></polygon>
+                <polygon id="Triangle" transform="translate(196.239191, 13.438260) rotate(-2.000000) translate(-196.239191, -13.438260) " points="196.239191 7.43825965 199.239191 19.4382597 193.239191 19.4382597"></polygon>
+                <polygon id="Triangle" transform="translate(196.999340, 10.199415) rotate(-11.000000) translate(-196.999340, -10.199415) " points="196.99934 4.19941538 199.99934 16.1994154 193.99934 16.1994154"></polygon>
+                <polygon id="Triangle" transform="translate(199.900768, 11.457077) rotate(-11.000000) translate(-199.900768, -11.457077) " points="199.900768 5.45707731 202.900768 17.4570773 196.900768 17.4570773"></polygon>
+                <polygon id="Triangle" transform="translate(201.245586, 7.559454) rotate(-11.000000) translate(-201.245586, -7.559454) " points="201.245586 1.55945426 204.245586 13.5594543 198.245586 13.5594543"></polygon>
+                <polygon id="Triangle" transform="translate(203.972703, 10.809506) rotate(-11.000000) translate(-203.972703, -10.809506) " points="203.972703 4.80950558 206.972703 16.8095056 200.972703 16.8095056"></polygon>
+                <polygon id="Triangle" transform="translate(205.965092, 10.983817) rotate(-11.000000) translate(-205.965092, -10.983817) " points="205.965092 4.98381707 208.965092 16.9838171 202.965092 16.9838171"></polygon>
+                <polygon id="Triangle" transform="translate(207.706505, 8.721465) rotate(-11.000000) translate(-207.706505, -8.721465) " points="207.706505 2.72146451 210.706505 14.7214645 204.706505 14.7214645"></polygon>
+                <polygon id="Triangle" transform="translate(210.607934, 9.979126) rotate(-11.000000) translate(-210.607934, -9.979126) " points="210.607934 3.97912643 213.607934 15.9791264 207.607934 15.9791264"></polygon>
+                <polygon id="Triangle" transform="translate(214.089736, 9.249863) rotate(-11.000000) translate(-214.089736, -9.249863) " points="214.089736 3.24986325 217.089736 15.2498632 211.089736 15.2498632"></polygon>
+                <polygon id="Triangle" transform="translate(216.816852, 12.499915) rotate(-11.000000) translate(-216.816852, -12.499915) " points="216.816852 6.49991457 219.816852 18.4999146 213.816852 18.4999146"></polygon>
+                <polygon id="Triangle" transform="translate(218.809242, 12.674226) rotate(-11.000000) translate(-218.809242, -12.674226) " points="218.809242 6.67422606 221.809242 18.6742261 215.809242 18.6742261"></polygon>
+                <polygon id="Triangle" transform="translate(221.545030, 10.486294) rotate(-2.000000) translate(-221.545030, -10.486294) " points="221.54503 4.48629354 224.54503 16.4862935 218.54503 16.4862935"></polygon>
+                <polygon id="Triangle" transform="translate(224.213995, 12.182355) rotate(-2.000000) translate(-224.213995, -12.182355) " points="224.213995 6.18235495 227.213995 18.1823549 221.213995 18.1823549"></polygon>
+                <polygon id="Triangle" transform="translate(226.151978, 8.543094) rotate(-2.000000) translate(-226.151978, -8.543094) " points="226.151978 2.54309394 229.151978 14.5430939 223.151978 14.5430939"></polygon>
+                <polygon id="Triangle" transform="translate(228.337100, 12.179747) rotate(-2.000000) translate(-228.337100, -12.179747) " points="228.3371 6.1797468 231.3371 18.1797468 225.3371 18.1797468"></polygon>
+                <polygon id="Triangle" transform="translate(230.277691, 12.663591) rotate(-2.000000) translate(-230.277691, -12.663591) " points="230.277691 6.6635906 233.277691 18.6635906 227.277691 18.6635906"></polygon>
+                <polygon id="Triangle" transform="translate(232.351574, 10.701508) rotate(-2.000000) translate(-232.351574, -10.701508) " points="232.351574 4.70150833 235.351574 16.7015083 229.351574 16.7015083"></polygon>
+                <polygon id="Triangle" transform="translate(235.020540, 12.397570) rotate(-2.000000) translate(-235.020540, -12.397570) " points="235.02054 6.39756975 238.02054 18.3975697 232.02054 18.3975697"></polygon>
+                <polygon id="Triangle" transform="translate(236.958523, 8.758309) rotate(-2.000000) translate(-236.958523, -8.758309) " points="236.958523 2.75830874 239.958523 14.7583087 233.958523 14.7583087"></polygon>
+                <polygon id="Triangle" transform="translate(239.143644, 12.394962) rotate(-2.000000) translate(-239.143644, -12.394962) " points="239.143644 6.3949616 242.143644 18.3949616 236.143644 18.3949616"></polygon>
+                <polygon id="Triangle" transform="translate(241.084236, 12.878805) rotate(-2.000000) translate(-241.084236, -12.878805) " points="241.084236 6.87880539 244.084236 18.8788054 238.084236 18.8788054"></polygon>
+                <polygon id="Triangle" transform="translate(241.844385, 9.639961) rotate(-11.000000) translate(-241.844385, -9.639961) " points="241.844385 3.63996112 244.844385 15.6399611 238.844385 15.6399611"></polygon>
+                <polygon id="Triangle" transform="translate(244.745814, 10.897623) rotate(-11.000000) translate(-244.745814, -10.897623) " points="244.745814 4.89762305 247.745814 16.897623 241.745814 16.897623"></polygon>
+                <polygon id="Triangle" transform="translate(246.090631, 7.000000) rotate(-11.000000) translate(-246.090631, -7.000000) " points="246.090631 1 249.090631 13 243.090631 13"></polygon>
+                <polygon id="Triangle" transform="translate(248.817748, 10.250051) rotate(-11.000000) translate(-248.817748, -10.250051) " points="248.817748 4.25005132 251.817748 16.2500513 245.817748 16.2500513"></polygon>
+                <polygon id="Triangle" transform="translate(250.810138, 10.424363) rotate(-11.000000) translate(-250.810138, -10.424363) " points="250.810138 4.42436281 253.810138 16.4243628 247.810138 16.4243628"></polygon>
+                <polygon id="Triangle" transform="translate(252.551551, 8.162010) rotate(-11.000000) translate(-252.551551, -8.162010) " points="252.551551 2.16201025 255.551551 14.1620102 249.551551 14.1620102"></polygon>
+                <polygon id="Triangle" transform="translate(255.452979, 9.419672) rotate(-11.000000) translate(-255.452979, -9.419672) " points="255.452979 3.41967217 258.452979 15.4196722 252.452979 15.4196722"></polygon>
+                <polygon id="Triangle" transform="translate(338.113487, 20.299307) rotate(3.000000) translate(-338.113487, -20.299307) " points="338.113487 14.2993069 341.113487 26.2993069 335.113487 26.2993069"></polygon>
+                <polygon id="Triangle" transform="translate(339.973339, 24.112567) rotate(3.000000) translate(-339.973339, -24.112567) " points="339.973339 18.112567 342.973339 30.112567 336.973339 30.112567"></polygon>
+                <polygon id="Triangle" transform="translate(341.864376, 24.763703) rotate(3.000000) translate(-341.864376, -24.763703) " points="341.864376 18.7637034 344.864376 30.7637034 338.864376 30.7637034"></polygon>
+                <polygon id="Triangle" transform="translate(344.767989, 23.438388) rotate(21.000000) translate(-344.767989, -23.438388) " points="344.767989 17.4383881 347.767989 29.4383881 341.767989 29.4383881"></polygon>
+                <polygon id="Triangle" transform="translate(346.562081, 26.042469) rotate(21.000000) translate(-346.562081, -26.042469) " points="346.562081 20.0424687 349.562081 32.0424687 343.562081 32.0424687"></polygon>
+                <polygon id="Triangle" transform="translate(349.767976, 23.449742) rotate(21.000000) translate(-349.767976, -23.449742) " points="349.767976 17.4497417 352.767976 29.4497417 346.767976 29.4497417"></polygon>
+                <polygon id="Triangle" transform="translate(350.358438, 27.651093) rotate(21.000000) translate(-350.358438, -27.651093) " points="350.358438 21.6510932 353.358438 33.6510932 347.358438 33.6510932"></polygon>
+                <polygon id="Triangle" transform="translate(351.955709, 28.854723) rotate(21.000000) translate(-351.955709, -28.854723) " points="351.955709 22.8547233 354.955709 34.8547233 348.955709 34.8547233"></polygon>
+                <polygon id="Triangle" transform="translate(354.631375, 27.858948) rotate(21.000000) translate(-354.631375, -27.858948) " points="354.631375 21.8589477 357.631375 33.8589477 351.631375 33.8589477"></polygon>
+                <polygon id="Triangle" transform="translate(356.425466, 30.463028) rotate(21.000000) translate(-356.425466, -30.463028) " points="356.425466 24.4630283 359.425466 36.4630283 353.425466 36.4630283"></polygon>
+                <polygon id="Triangle" transform="translate(359.631362, 27.870301) rotate(21.000000) translate(-359.631362, -27.870301) " points="359.631362 21.8703013 362.631362 33.8703013 356.631362 33.8703013"></polygon>
+                <polygon id="Triangle" transform="translate(360.221823, 32.071653) rotate(21.000000) translate(-360.221823, -32.071653) " points="360.221823 26.0716529 363.221823 38.0716529 357.221823 38.0716529"></polygon>
+                <polygon id="Triangle" transform="translate(361.819094, 33.275283) rotate(21.000000) translate(-361.819094, -33.275283) " points="361.819094 27.2752829 364.819094 39.2752829 358.819094 39.2752829"></polygon>
+                <polygon id="Triangle" transform="translate(363.784333, 30.590925) rotate(12.000000) translate(-363.784333, -30.590925) " points="363.784333 24.5909251 366.784333 36.5909251 360.784333 36.5909251"></polygon>
+                <polygon id="Triangle" transform="translate(365.963704, 32.882287) rotate(12.000000) translate(-365.963704, -32.882287) " points="365.963704 26.8822874 368.963704 38.8822874 362.963704 38.8822874"></polygon>
+                <polygon id="Triangle" transform="translate(368.724538, 29.819969) rotate(12.000000) translate(-368.724538, -29.819969) " points="368.724538 23.8199686 371.724538 35.8199686 365.724538 35.8199686"></polygon>
+                <polygon id="Triangle" transform="translate(369.964966, 33.877226) rotate(12.000000) translate(-369.964966, -33.877226) " points="369.964966 27.8772261 372.964966 39.8772261 366.964966 39.8772261"></polygon>
+                <polygon id="Triangle" transform="translate(371.730861, 34.816169) rotate(12.000000) translate(-371.730861, -34.816169) " points="371.730861 28.8161692 374.730861 40.8161692 368.730861 40.8161692"></polygon>
+                <polygon id="Triangle" transform="translate(374.217812, 33.414087) rotate(12.000000) translate(-374.217812, -33.414087) " points="374.217812 27.4140869 377.217812 39.4140869 371.217812 39.4140869"></polygon>
+                <polygon id="Triangle" transform="translate(376.397183, 35.705449) rotate(12.000000) translate(-376.397183, -35.705449) " points="376.397183 29.7054492 379.397183 41.7054492 373.397183 41.7054492"></polygon>
+                <polygon id="Triangle" transform="translate(379.158017, 32.643130) rotate(12.000000) translate(-379.158017, -32.643130) " points="379.158017 26.6431304 382.158017 38.6431304 376.158017 38.6431304"></polygon>
+                <polygon id="Triangle" transform="translate(380.398445, 36.700388) rotate(12.000000) translate(-380.398445, -36.700388) " points="380.398445 30.7003878 383.398445 42.7003878 377.398445 42.7003878"></polygon>
+                <polygon id="Triangle" transform="translate(382.164340, 37.639331) rotate(12.000000) translate(-382.164340, -37.639331) " points="382.16434 31.6393309 385.16434 43.6393309 379.16434 43.6393309"></polygon>
+                <polygon id="Triangle" transform="translate(385.537540, 36.694286) rotate(21.000000) translate(-385.537540, -36.694286) " points="385.53754 30.694286 388.53754 42.694286 382.53754 42.694286"></polygon>
+                <polygon id="Triangle" transform="translate(387.331631, 39.298367) rotate(21.000000) translate(-387.331631, -39.298367) " points="387.331631 33.2983665 390.331631 45.2983665 384.331631 45.2983665"></polygon>
+                <polygon id="Triangle" transform="translate(390.537527, 36.705640) rotate(21.000000) translate(-390.537527, -36.705640) " points="390.537527 30.7056395 393.537527 42.7056395 387.537527 42.7056395"></polygon>
+                <polygon id="Triangle" transform="translate(391.127988, 40.906991) rotate(21.000000) translate(-391.127988, -40.906991) " points="391.127988 34.9069911 394.127988 46.9069911 388.127988 46.9069911"></polygon>
+                <polygon id="Triangle" transform="translate(392.725259, 42.110621) rotate(21.000000) translate(-392.725259, -42.110621) " points="392.725259 36.1106212 395.725259 48.1106212 389.725259 48.1106212"></polygon>
+                <polygon id="Triangle" transform="translate(395.400925, 41.114846) rotate(21.000000) translate(-395.400925, -41.114846) " points="395.400925 35.1148456 398.400925 47.1148456 392.400925 47.1148456"></polygon>
+                <polygon id="Triangle" transform="translate(397.195017, 43.718926) rotate(21.000000) translate(-397.195017, -43.718926) " points="397.195017 37.7189262 400.195017 49.7189262 394.195017 49.7189262"></polygon>
+                <polygon id="Triangle" transform="translate(400.400912, 41.126199) rotate(21.000000) translate(-400.400912, -41.126199) " points="400.400912 35.1261992 403.400912 47.1261992 397.400912 47.1261992"></polygon>
+                <polygon id="Triangle" transform="translate(400.991374, 45.327551) rotate(21.000000) translate(-400.991374, -45.327551) " points="400.991374 39.3275508 403.991374 51.3275508 397.991374 51.3275508"></polygon>
+                <polygon id="Triangle" transform="translate(402.588645, 46.531181) rotate(21.000000) translate(-402.588645, -46.531181) " points="402.588645 40.5311808 405.588645 52.5311808 399.588645 52.5311808"></polygon>
+                <polygon id="Triangle" transform="translate(404.553883, 43.846823) rotate(12.000000) translate(-404.553883, -43.846823) " points="404.553883 37.846823 407.553883 49.846823 401.553883 49.846823"></polygon>
+                <polygon id="Triangle" transform="translate(406.733255, 46.138185) rotate(12.000000) translate(-406.733255, -46.138185) " points="406.733255 40.1381853 409.733255 52.1381853 403.733255 52.1381853"></polygon>
+                <polygon id="Triangle" transform="translate(409.494088, 43.075866) rotate(12.000000) translate(-409.494088, -43.075866) " points="409.494088 37.0758665 412.494088 49.0758665 406.494088 49.0758665"></polygon>
+                <polygon id="Triangle" transform="translate(410.734517, 47.133124) rotate(12.000000) translate(-410.734517, -47.133124) " points="410.734517 41.1331239 413.734517 53.1331239 407.734517 53.1331239"></polygon>
+                <polygon id="Triangle" transform="translate(412.500412, 48.072067) rotate(12.000000) translate(-412.500412, -48.072067) " points="412.500412 42.0720671 415.500412 54.0720671 409.500412 54.0720671"></polygon>
+                <polygon id="Triangle" transform="translate(414.987362, 46.669985) rotate(12.000000) translate(-414.987362, -46.669985) " points="414.987362 40.6699848 417.987362 52.6699848 411.987362 52.6699848"></polygon>
+                <polygon id="Triangle" transform="translate(417.166734, 48.961347) rotate(12.000000) translate(-417.166734, -48.961347) " points="417.166734 42.961347 420.166734 54.961347 414.166734 54.961347"></polygon>
+                <polygon id="Triangle" transform="translate(419.927567, 45.899028) rotate(12.000000) translate(-419.927567, -45.899028) " points="419.927567 39.8990282 422.927567 51.8990282 416.927567 51.8990282"></polygon>
+                <polygon id="Triangle" transform="translate(421.167995, 49.956286) rotate(12.000000) translate(-421.167995, -49.956286) " points="421.167995 43.9562857 424.167995 55.9562857 418.167995 55.9562857"></polygon>
+            </g>
+            <g id="Flower" transform="translate(187.000000, 195.350511)" fill="#FFDC26">
+                <ellipse id="Oval" cx="3.5" cy="113.5" rx="3.5" ry="2.5"></ellipse>
+                <ellipse id="Oval" cx="92.5" cy="60.5" rx="3.5" ry="2.5"></ellipse>
+                <ellipse id="Oval" cx="163.5" cy="97.5" rx="3.5" ry="2.5"></ellipse>
+                <ellipse id="Oval" cx="25.5" cy="47.5" rx="3.5" ry="2.5"></ellipse>
+                <ellipse id="Oval" cx="87.5" cy="153.5" rx="3.5" ry="2.5"></ellipse>
+                <ellipse id="Oval" cx="155.5" cy="60.5" rx="3.5" ry="2.5"></ellipse>
+                <ellipse id="Oval" cx="242.5" cy="143.5" rx="3.5" ry="2.5"></ellipse>
+                <ellipse id="Oval" cx="331.5" cy="60.5" rx="3.5" ry="2.5"></ellipse>
+                <ellipse id="Oval" cx="331.5" cy="176.5" rx="3.5" ry="2.5"></ellipse>
+                <ellipse id="Oval" cx="199.5" cy="2.5" rx="3.5" ry="2.5"></ellipse>
+                <ellipse id="Oval" cx="115.5" cy="16.5" rx="3.5" ry="2.5"></ellipse>
+            </g>
+        </g>
+        <g id="Sky" transform="translate(-67.788448, 32.000000)">
+            <path d="M498.198169,56.2875807 C439.086605,56.2875807 403.283619,98.6750913 374.721433,149.204431 C369.813753,157.886603 363.483388,176.082714 354.945513,183.973316 C323.423459,213.105626 300.200574,230.826206 259.420359,239.921122 C235.464684,245.263783 203.665803,239.117918 181.777075,248.007502 C165.424634,254.648656 160.700352,279.708433 154.469598,291.978791 C145.370468,309.897904 118.265244,331.914431 107.539255,339.974139 C95.6662368,348.895745 81.0954439,353.742378 69.090683,362.485908 C49.9327539,376.439366 25.1817697,407.300142 12.2054187,424.109485 C2.13432978,437.155402 -5.1789299,448.350936 4.64197434,461.843802 C5.92534009,463.607009 7.37893585,465.704235 9.49507817,466.231365 C30.4255337,471.445139 26.9193655,461.30372 45.1695365,447.214341 C51.4780594,442.344076 58.9447523,439.172523 65.5512971,434.714888 C93.1727115,416.077888 113.46777,389.490262 137.665486,367.268862 C152.014895,354.091422 167.203758,341.854593 182.217107,329.438886 C190.341993,322.719785 198.653412,316.224189 207.069335,309.873416 C209.948114,307.701049 212.869346,305.526969 216.08042,303.885158 C253.508911,284.748102 289.889501,316.748493 326.381713,318.922765 C362.539288,321.077098 398.801284,320.868249 434.993029,322.340982 C462.625222,323.465406 485.604704,333.194852 511.571308,340.97537 C518.666911,343.101465 525.943334,344.761469 533.298673,345.637156 C540.488102,346.493091 547.865496,347.300439 555.013284,346.147338 C563.725293,344.741892 571.885238,334.186709 568.093068,325.178868 C562.574324,312.06976 546.691023,275.051542 530.728633,262.515796 C524.109622,257.317687 516.131926,254.009437 509.568845,248.740889 C497.566555,239.105985 486.42396,228.438668 475.182596,217.925911 C471.755718,214.721146 450.729876,196.845809 448.098322,186.377548 C438.779245,149.306464 489.692638,141.292427 507.776832,127.617366 C519.575297,118.695501 528.366622,106.27306 537.271714,94.4619296 C540.425991,90.2783024 542.623351,85.2255638 543.617099,80.0811817 C548.204882,56.3314022 545.330806,55.789321 526.385711,52.5122358 L498.198169,56.2875807 Z" id="Path-5" fill="#88EAFA"></path>
+            <circle id="Sun" fill="url(#linearGradient-5)" cx="378.288448" cy="52.5" r="40.5"></circle>
+            <g id="Cloud" transform="translate(26.788448, 0.000000)" fill="#FFFFFF">
+                <g id="Cloud-Big" opacity="0.8" transform="translate(52.000000, 0.000000)">
+                    <ellipse id="Oval" cx="39.5" cy="30" rx="29.5" ry="30"></ellipse>
+                    <rect id="Rectangle" x="7" y="34" width="105" height="26" rx="8"></rect>
+                    <ellipse id="Oval" cx="79.5" cy="36" rx="19.5" ry="20"></ellipse>
+                    <circle id="Oval" cx="104" cy="45" r="15"></circle>
+                    <circle id="Oval" cx="15" cy="45" r="15"></circle>
+                </g>
+                <g id="Cloud-Big" opacity="0.8" transform="translate(370.000000, 191.000000)">
+                    <ellipse id="Oval" cx="39.5" cy="30" rx="29.5" ry="30"></ellipse>
+                    <rect id="Rectangle" x="7" y="34" width="105" height="26" rx="8"></rect>
+                    <ellipse id="Oval" cx="79.5" cy="36" rx="19.5" ry="20"></ellipse>
+                    <circle id="Oval" cx="15" cy="45" r="15"></circle>
+                </g>
+                <g id="Cloud-Big" opacity="0.9" transform="translate(121.000000, 37.000000)">
+                    <ellipse id="Oval" cx="27.5" cy="15.5" rx="20.5" ry="15.5"></ellipse>
+                    <rect id="Rectangle" x="5" y="18" width="73" height="13" rx="6.5"></rect>
+                    <ellipse id="Oval" cx="55.5" cy="18.5" rx="13.5" ry="10.5"></ellipse>
+                    <ellipse id="Oval" cx="72.5" cy="23" rx="10.5" ry="8"></ellipse>
+                    <ellipse id="Oval" cx="10.5" cy="23" rx="10.5" ry="8"></ellipse>
+                </g>
+                <g id="Cloud-Big" transform="translate(310.000000, 60.000000)">
+                    <ellipse id="Oval" cx="34.7096774" cy="19.5" rx="26" ry="19.5"></ellipse>
+                    <rect id="Rectangle" x="6.70967742" y="23" width="92" height="16" rx="8"></rect>
+                    <ellipse id="Oval" cx="69.7096774" cy="23" rx="17" ry="13"></ellipse>
+                    <ellipse id="Oval" cx="91.7096774" cy="29" rx="13" ry="10"></ellipse>
+                    <ellipse id="Oval" cx="13.7096774" cy="29" rx="13" ry="10"></ellipse>
+                </g>
+                <g id="Cloud-Big" opacity="0.9" transform="translate(0.000000, 363.000000)">
+                    <ellipse id="Oval" cx="27.5" cy="18.5" rx="20.5" ry="18.5"></ellipse>
+                    <rect id="Rectangle" x="5" y="21" width="73" height="16" rx="8"></rect>
+                    <ellipse id="Oval" cx="55.5" cy="22.5" rx="13.5" ry="12.5"></ellipse>
+                    <ellipse id="Oval" cx="72.5" cy="27.5" rx="10.5" ry="9.5"></ellipse>
+                </g>
+            </g>
+        </g>
+        <g id="Pitesin" filter="url(#filter-6)" transform="translate(97.000000, 418.000000)">
+            <g fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-8)" xlink:href="#text-7"></use>
+                <use xlink:href="#text-7"></use>
+            </g>
+            <g id="Pitesin-Icon" filter="url(#filter-9)">
+                <circle id="Oval" fill="#FFDA00" cx="30.5" cy="30.5" r="30.5"></circle>
+                <circle id="Oval" fill="#FFEA05" cx="32.5" cy="35.5" r="25.5"></circle>
+                <circle id="Oval" fill="#FEFEFE" cx="15.5" cy="18.5" r="5.5"></circle>
+                <circle id="Oval" fill="#FEFEFE" cx="32.5" cy="10.5" r="2.5"></circle>
+            </g>
+        </g>
+        <text id="an-Joyful-Tap-Game" font-family="ComicSansMS, Comic Sans MS" font-size="11" font-weight="normal" letter-spacing="0.785714286" fill="#585858">
+            <tspan x="149" y="865">an Joyful Tap Game</tspan>
+        </text>
+    </g>
+</svg>
